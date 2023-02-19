@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/er-pratham/PomoDoro/static/css/main.5e2e70fa.css",
+    "main.js": "/er-pratham/PomoDoro/static/js/main.dfa74ad6.js",
+    "static/js/787.b1af5461.chunk.js": "/er-pratham/PomoDoro/static/js/787.b1af5461.chunk.js",
+    "static/media/resetEffect.wav": "/er-pratham/PomoDoro/static/media/resetEffect.90bf8d0e11b38e475cb0.wav",
+    "index.html": "/er-pratham/PomoDoro/index.html",
+    "main.5e2e70fa.css.map": "/er-pratham/PomoDoro/static/css/main.5e2e70fa.css.map",
+    "main.dfa74ad6.js.map": "/er-pratham/PomoDoro/static/js/main.dfa74ad6.js.map",
+    "787.b1af5461.chunk.js.map": "/er-pratham/PomoDoro/static/js/787.b1af5461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2e70fa.css",
+    "static/js/main.dfa74ad6.js"
+  ]
+}
