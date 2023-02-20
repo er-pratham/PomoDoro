@@ -68,3 +68,6 @@ Any kind of contributions are welcome.
 4. Push your work back up to your fork.
 5. Submit a Pull request so that I can review your changes
 
+## Support
+
+For support, email er.prathamsaxena@gmail.com or join our Slack channel.
