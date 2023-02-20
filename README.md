@@ -7,7 +7,7 @@ The Pomodoro Technique is a time management method developed in the late 1980s a
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (133)](https://user-images.githubusercontent.com/94908262/220018472-7068538e-bc90-4bf5-b892-3446f41e1b4e.png)
 
 
 ## Authors
