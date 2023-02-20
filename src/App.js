@@ -1,5 +1,6 @@
-import React,{useEffect, useState} from 'react';
+import React from 'react';
 import './App.css';
+import { useEffect,useState } from 'react';
 import Header from './Components/Header';
 import MainPomoDoro from './Components/MainPomoDoro';
 import Footer from './Components/Footer';
@@ -29,7 +30,7 @@ function App() {
       {
         const interval=setInterval(() => {
           setTime(time-1);
-          console.log(time);
+          // console.log(time);
         }, 1000);
         return ()=>clearInterval(interval);
       }
